@@ -1,0 +1,15 @@
+.card-header{
+	color: purple;
+}
+
+body{
+	background-image: linear-gradient(to right, #E65763, #34073D);
+}
+.card{
+	
+	border: none;
+}
+#botao{
+	background-color: purple;
+	color: white;
+}
